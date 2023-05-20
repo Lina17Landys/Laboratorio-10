@@ -1,0 +1,64 @@
+{
+    "movies": [
+        {
+            "title": "Agretsuko",
+            "image": "https://m.media-amazon.com/images/I/81HcdYsFVPL._AC_UF1000,1000_QL80_.jpg",
+            "bannerPic": "https://3.bp.blogspot.com/-6bySyL3y3Ho/W2V_8kdRw2I/AAAAAAAAUYE/c0h1MG85hHUip83reJbkp7OM278j5cY8ACLcBGAs/s1600/resenha-da-s%25C3%25A9rie-AGGRETSUKO-blog-tudo-que-motiva%2B1.jpg",
+            "sypnopsis": "Retsuko es una panda roja antropomórfica de 25 años, soltera, de sangre tipo “A”, quien trabaja en el departamento de contabilidad de una compañía comercial japonesa, tratando de hacer lo mejor posible para navegar a través de los problemas comunes encontrados por los jóvenes adultos en el Japón del siglo XXI."
+        },
+        {
+            "title": "Bojack Horseman",
+            "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/77ace08c-7715-4055-8cb8-0a5e6aaa212c/dd636qo-b68f024e-72e7-4f76-8cb2-36c6f2d30d13.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc3YWNlMDhjLTc3MTUtNDA1NS04Y2I4LTBhNWU2YWFhMjEyY1wvZGQ2MzZxby1iNjhmMDI0ZS03MmU3LTRmNzYtOGNiMi0zNmM2ZjJkMzBkMTMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.j-5QP8igYfiOQxPP-iUL4Lt0-53lHPqbxmKUShBqFxA",
+            "bannerPic": "https://i.kym-cdn.com/photos/images/original/001/742/960/567.png",
+            "sypnopsis": "BoJack Horseman es un olvidado actor que supo vivir sus días de gloria gracias a una comedia televisiva, y que se enfrenta a las más duras crisis existenciales y adicciones mientras intenta volver a las grandes ligas."
+        },
+        {
+            "title": "Bridgerton",
+            "image": "https://i.pinimg.com/originals/15/5c/67/155c67b87eb29243dca53b4352e362d9.jpg",
+            "bannerPic": "https://sigueenserie.files.wordpress.com/2020/12/bridgerton-serie-1.jpg?w=1200",
+            "sypnopsis": "Basada en las célebres novelas de Julia Quinn, la serie narra las vidas de los ocho hermanos Bridgerton mientras buscan amor y felicidad en la alta sociedad londinense."
+        },
+        {
+            "title": "Castelvania",
+            "image": "https://i.redd.it/k3y98mhml6571.png",
+            "bannerPic": "https://www.hollywoodreporter.com/wp-content/uploads/2020/11/CVAAAS_CVR_HERO-H-2020-1605045051.jpg",
+            "sypnopsis": "Un cazavampiros lucha por salvar una ciudad asediada por un ejército de bestias controladas por Drácula."
+        },
+        {
+            "title": "Inside Job",
+            "image": "https://pbs.twimg.com/media/FgHYX3-VUAAcl1n.jpg:large",
+            "bannerPic": "https://pbs.twimg.com/media/E34DkgSWEAA6Qqb.jpg:large",
+            "sypnopsis": "Inside Job es una comedia ambientada en un mundo donde todas las teorías de la conspiración son reales. Se centra en una organización del gobierno en la sombra estadounidense Cognito, Inc., que intenta controlar el mundo y mantener en secreto las conspiraciones."
+        },
+        {
+            "title": "Jojo's Bizarre Adventures",
+            "image": "https://m.media-amazon.com/images/I/81IF6cvmg8L.jpg",
+            "bannerPic": "https://www.koi-nya.net/img/subidos_posts/2016/09/takashi-miike-dirigira-una-pelicula-live-action-jojos-bizarre-adventure-diamond-is-unbreakable.jpg",
+            "sypnopsis": "Narra la historia de la familia Joestar a través de las décadas y sus continuos enfrentamientos con el malvado vampiro Dio Brando y su legado."
+        },
+        {
+            "title": "Kuroshitsuji",
+            "image": "https://m.media-amazon.com/images/I/61GxlreeIxS._AC_UF894,1000_QL80_.jpg",
+            "bannerPic": "https://ramenparados.com/wp-content/uploads/2022/06/black-butler-portada.jpeg",
+            "sypnopsis": "En el pasado de Ciel oculta un trágico secreto que lo sumió a una perenne oscuridad. Durante uno de sus momentos más sombríos, formó un contrato con Sebastian, un demonio, negociando su alma a cambio de obtener venganza contra aquellos que lo agraviaron"
+        },
+        {
+            "title": "Nana",
+            "image": "https://cf.shopee.com.co/file/a1ce3d9e49dc1f0a85d8d876923ba83c",
+            "bannerPic": "https://animeargentina.net/wp-content/uploads/2022/08/nana-poster-4.jpg",
+            "sypnopsis": "Dos jóvenes de la misma edad y que comparten nombre terminan por azares de la vida conviviendo en el mismo apartamento."
+        },
+        {
+            "title": "The Untamed",
+            "image": "https://m.media-amazon.com/images/M/MV5BODRhYjM0YzgtMzE5Ni00NmVmLTliNWUtOGI0Nzc0Y2NkODQ5XkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_.jpg",
+            "bannerPic": "https://wallpaperaccess.com/full/4173382.jpg",
+            "sypnopsis": "El mundo es gobernado por el poderoso y cruel clan Wen, el cual domina a los clanes más pequeños de Lan, Jiang, Nie y Jin. El despreocupado Wei Wu Xian se convierte rápidamente en amigo del justo Lan Wang Ji, y durante sus aventuras, ambos descubren que el líder del clan Wen es el malvado cerebro detrás de una serie de complots que causarían estragos en las tierras."
+        },
+        {
+            "title": "Betty la fea",
+            "image": "https://http2.mlstatic.com/D_NQ_NP_967372-MCO50674715999_072022-V.jpg",
+            "bannerPic": "https://elcomercio.pe/resizer/26-4tvrkrG1EoYAx7TPamiKK5gs=/620x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/OUKCY4SYNBFF5O6HSDT7ULOLZ4.jpg",
+            "sypnopsis": "Beatriz Pinzón Solano, comúnmente conocida como 'Betty', es una economista joven y brillante, aunque poco atractiva, que vive con sus padres en Bogotá. Luego de muchas dificultades para conseguir empleo, Betty comienza a trabajar como secretaria de presidencia en una empresa llamada Ecomoda."
+        }
+    ]
+}
